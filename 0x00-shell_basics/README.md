@@ -11,3 +11,4 @@ Script 10 - delete a directory
 Script 11 - go from the current directory to the previous one
 Script 12 - list all files in the parent working, parent, and boot directory in that order. hidden files inclusive 
 Script 13 - display file type
+Script 14 - create a symbolic link
