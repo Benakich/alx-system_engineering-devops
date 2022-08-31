@@ -8,4 +8,5 @@ Script 7 - create a directory in the /tmp/ directory
 Script 8 - move file betty between folders
 Script 9 - delete a file from a directory
 Script 10 - delete a directory
-Script 11 - go from the current directory to the previous one 
+Script 11 - go from the current directory to the previous one
+Script 12 - list all files in the parent working, parent, and boot directory in that order. hidden files inclusive 
