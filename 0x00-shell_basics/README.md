@@ -17,3 +17,4 @@ Script 16 - mv files which begin wth an uppercase letter
 Script 17 - del emacs backup files
 Script 18 - Create multiple directories
 Script 19 - create more detailed lists, across directories
+Script 20 - Create a magic file school.mgc that can be used with the command file to detect School data files.
