@@ -13,3 +13,4 @@ Script 12 - list all files in the parent working, parent, and boot directory in 
 Script 13 - display file type
 Script 14 - create a symbolic link
 Script 15 - copy files for one directory to another
+Script 16 - mv files which begin wth an uppercase letter
