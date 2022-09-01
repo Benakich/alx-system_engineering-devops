@@ -24,3 +24,5 @@ $ ls -l users.list
 $ ls -l keys.list
 $ sudo chmod --reference=users.list keys.list
 $ ls -l keys.list
+
+Permission for directories is upper case
