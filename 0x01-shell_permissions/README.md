@@ -12,3 +12,15 @@ Script 11 - set more permission
 Script 12 - set more permission
 Script 13 - set directory permission
 Script 14 - Change group owner
+
+
+Copy File Permissions to Another File
+To copy file permissions from one file to another file, use chmod command with the --reference switch in the following syntax, where reference_file is the file from which permissions will be copied rather than specifying mode (i.e octal or numerical mode permissions) for file.
+
+$ chmod --reference=reference_file file
+For example,
+
+$ ls -l users.list
+$ ls -l keys.list
+$ sudo chmod --reference=users.list keys.list
+$ ls -l keys.list
