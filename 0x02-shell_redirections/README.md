@@ -18,4 +18,7 @@ Script 17 - finding patterns
 Script 18 - manipulating file patterns
 Script 19 - manipulating files
 Script 20 - Replace characters
-Script 21 - 
+Script 21 - Removes letters
+Script 22 - Reverse char
+Script 23 - Display users and home dir
+Script 24 -  
