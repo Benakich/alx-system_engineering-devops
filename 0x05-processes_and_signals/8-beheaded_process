@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 #kill 7-highlander
-var = "$(pgrep -f 7-highlander)"
-kill "$var"
+kill -9 "$(pgrep -f 7-highlander)"
