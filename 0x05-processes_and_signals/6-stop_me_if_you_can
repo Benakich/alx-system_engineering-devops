@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#use pkill to terminate process
+# use pkill to terminate process
 # Cannot use kill or killall.
 pkill -SIGTERM -f "./4-to_infinity_and_beyond"
